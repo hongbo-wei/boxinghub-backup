@@ -4,7 +4,7 @@
 
 #### Video Demo: https://youtu.be/9yuzUpK1MCM
 
-#### Description: **_BoxingHub_ is dedicated to speading boxing knowledge and develope boxing culture.**
+#### Description: **_BoxingHub_ is dedicated to spreading boxing knowledge and developing boxing culture.**
 
 #### Author: Hongbo Wei from Guiyang, China. A software engineer who loves boxing 🥊!
 
